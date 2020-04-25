@@ -1,0 +1,10 @@
+1. set proagram and set path in every ba file
+
+2 1st run ems bat
+
+3 run reg bat
+
+4 run log bat file
+
+
+enjoy...!!!!!!! 
